@@ -1,0 +1,30 @@
+_repo: The-Pictorial-PressIts-Origin-and-Progress_36417
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jackson, Mason
+    alias: Jackson, M. (Mason)
+    birthdate: 1819
+    deathdate: 1903
+    gutenberg_agent_id: '38257'
+    url: http://www.gutenberg.org/2009/agents/38257
+description: ''
+gutenberg_issued: '2011-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36417'
+  lccn: 06029075
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newspapers -- Illustrations'
+- !lcc 'PN'
+- !lcc 'NC'
+- !lcsh 'Illustration of books'
+title: 'The Pictorial Press: Its Origin and Progress'
+url: http://www.gutenberg.org/ebooks/36417
